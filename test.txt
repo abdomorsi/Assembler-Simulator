@@ -1,0 +1,4 @@
+addi $s1, $s1, 12
+jr $s1
+addi $s2, $s2, -1
+addi $s3, $s3, 9999
